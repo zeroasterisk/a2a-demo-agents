@@ -1,5 +1,8 @@
 # A2A Demo Agents
 
+> **⚠️ Personal Hobby Project** — This is an independent, personal project by [Alan Blount](https://github.com/zeroasterisk). It is **not affiliated with, endorsed by, or supported by any employer, company, or organization**. No warranty; use at your own risk.
+
+
 Two minimal demo agents showcasing the **Agent-to-Agent (A2A)** protocol pattern:
 auto-registration with a relay, message receipt, and relay-based replies.
 
